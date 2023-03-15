@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand7171&label=Profile%20views&color=0e75b6&style=flat" alt="anand7171" /> </p>
 
-<p align="left"> <a href="https://bio.site/AnandKatariya" target="blank"><img src="https://img.shields.io/badge/SEE%20MEE%20-HERE-blue" alt="anand_katariya_7" /></a> </p>
+<p align="left"> <a href="https://bio.site/AnandKatariya" target="blank"><img src="https://img.shields.io/badge/My%20-Portfolio-blue" alt="anand_katariya_7" /></a> </p>
 
 - 🔭 I’m currently working on **Basic project for python**
 
