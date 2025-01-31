@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **open source contribution**
 
-- 💬 Ask me about **System manuplation**
+- 💬 Ask me about **System manipulation**
 
 - 📫 How to reach me **anandrajeshkatariya@gmail.com**
 
