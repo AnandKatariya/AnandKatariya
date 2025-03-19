@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Basic project for python**
 
-- 🌱 I’m currently learning **Hacking**
+- 🌱 I’m currently learning **Penetration Testing**
 
 - 👯 I’m looking to collaborate on **open source contribution**
 
