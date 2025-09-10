@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://bio.site/AnandKatariya" target="blank"><img src="https://img.shields.io/badge/My%20-Portfolio-blue" alt="anand_katariya_7" /></a> </p>
 
-- 🔭 I’m currently working on **Basic project for python**
+- 🔭 I’m currently working on **Nas(Network Attach Storage)**
 
 - 🌱 I’m currently learning **AWS Certification**
 
 - 👯 I’m looking to collaborate on **open source contribution**
 
-- 💬 Ask me about **Cloud Resources**
+- 💬 Ask me about **Cloud Resources, System Manupilation**
 
 - 📫 How to reach me **anandrajeshkatariya@gmail.com**
 
